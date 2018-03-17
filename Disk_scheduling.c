@@ -1,6 +1,6 @@
 #include<stdio.h>
 int a[100],N, max, prev, seek_time=0;
-
+// commit 2
 int abst(int a, int b)
 {
   if(a>b)
